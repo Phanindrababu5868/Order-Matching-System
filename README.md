@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
  
   ```
-   git clone https://github.com/your-username/order-matching-system.git
+   git clone https://github.com/Phanindrababu5868/Order-Matching-System.git
    cd order-matching-system
   ```
 2. Install backend dependencies:
